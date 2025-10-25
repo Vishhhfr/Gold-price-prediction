@@ -1,4 +1,5 @@
 **Gold price prediction**
+
 • Machine learning regression model for gold price prediction.
 
 • Analyzes historical data including SPX, USO, SLV prices, and EUR/USD exchange rates.
